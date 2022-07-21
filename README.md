@@ -1,5 +1,5 @@
 # STGAN_Colab_Testing
-This repository contains a Colab Notebook that tests STGAN for facial attribute transfer for images from CelebA Dataset from https://github.com/csmliu/STGAN. 
+This repository contains a Colab Notebook that tests STGAN from https://github.com/csmliu/STGAN. for facial attribute transfer for images from CelebA Dataset. 
 
 We are using the pre-trained model available on https://drive.google.com/file/d/1329IbLE6877DcDUut1reKxckijBJye7N/view trained by the authors of the STGAN GitHub repository for testing purposes.
 
