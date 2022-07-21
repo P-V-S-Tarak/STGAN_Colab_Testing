@@ -11,6 +11,6 @@ Python 3.6 with Tensorflow (1.x), matplotlib, numpy and scipy(1.1).
 Dataset: We use the CelebA dataset (https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html) for testing purposes.
 
 Steps to test STGAN implementation:
--> Open Google Colab and Upload STGAN.ipynb file.
+-> Open STGAN.ipynb file in Google Colab.
 -> This notebook will contain stepwise procedre to run STGAN implmentation
 -> Run the code cells while following the instructions given in STGAN.ipynb on Google Colab to successfully run the code. 
